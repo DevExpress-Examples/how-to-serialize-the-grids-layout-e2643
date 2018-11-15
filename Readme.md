@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/GridLayoutSerialization/MainPage.xaml) (VB: [MainPage.xaml](./VB/GridLayoutSerialization/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/GridLayoutSerialization/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/GridLayoutSerialization/MainPage.xaml))
+<!-- default file list end -->
 # How to Serialize the Grid's Layout
 
 
